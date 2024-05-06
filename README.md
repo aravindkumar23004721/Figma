@@ -62,9 +62,9 @@ page 3
 </div>
 ```
 ## OUTPUT:
-![alt text](<WhatsApp Image 2024-05-06 at 22.50.59_0edd6638-1.jpg>) 
-![alt text](<WhatsApp Image 2024-05-06 at 22.50.59_1c22a5c4-1.jpg>) 
-![alt text](<WhatsApp Image 2024-05-06 at 22.51.00_e19970f3-1.jpg>)
+![WhatsApp Image 2024-05-06 at 22 50 59_5b21fe7c](https://github.com/aravindkumar23004721/Figma/assets/148962674/c463a242-b607-49b5-80ee-67d983e66f15)
+![WhatsApp Image 2024-05-06 at 22 50 59_16e39d20](https://github.com/aravindkumar23004721/Figma/assets/148962674/e6d64c22-8a4d-4c0e-8705-f3dda4f3e2f4)
+![WhatsApp Image 2024-05-06 at 22 51 00_28b780e7](https://github.com/aravindkumar23004721/Figma/assets/148962674/0f381c1f-3a59-43f8-883c-c1ffdd43fb11)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
